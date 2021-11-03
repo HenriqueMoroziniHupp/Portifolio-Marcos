@@ -9,8 +9,8 @@
 
 <style lang="scss" scoped>
   .template-home {
-    margin: 2rem auto;
+    margin: 2em auto;
     display: grid;
-    gap: 2rem;
+    gap: 2em;
   }
 </style>
