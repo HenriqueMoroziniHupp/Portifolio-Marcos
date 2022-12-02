@@ -1,5 +1,9 @@
 <template>
   <div>
-    <TamplateHome />
+    <TamplateHome>
+      <Header />
+      <Presentation />
+      <Services />
+    </TamplateHome>
   </div>
 </template>
