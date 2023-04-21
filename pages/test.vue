@@ -15,9 +15,9 @@
     <!-- <SocialNetworks/> -->
 
     <!-- ORGANISMS -->
-    <!-- <Header/>
-    <Presentation/>
-    <Services/> -->
+    <!-- <Header/> -->
+    <!-- <Presentation/> -->
+    <!-- <Services/> -->
 
     <!-- TEMPLATE -->
     <!-- <TamplateHome style="text-align:center">
